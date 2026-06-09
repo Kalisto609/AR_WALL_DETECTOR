@@ -19,3 +19,7 @@
 - Point camera at wall
 - Tap detected plane
 - Use buttons to switch videos
+
+## DEMO VIDEO
+
+Youtube Link : https://youtube.com/shorts/g5jMTpyz1Jg
